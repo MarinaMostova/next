@@ -1,5 +1,5 @@
 import PostsItem from "../PostsItem/PostsItem";
-import styles from "./PostsList.module.css";
+import styles from "./Posts.List.module.css";
 
 const obj = {
   resources: 4,

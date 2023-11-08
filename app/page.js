@@ -1,4 +1,4 @@
-import PostsList from "@/componets/PostsList/PostsList";
+import PostsList from "@/components/PostsList/PostsList";
 import styles from "./page.module.css";
 
 export default function Home() {
