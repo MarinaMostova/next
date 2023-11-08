@@ -62,6 +62,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
+        <h1 className={styles.title}>Posts</h1>
         <ul className={styles.list}>
           {posts.map(({ image, text }) => (
             <li className={styles.item}>
