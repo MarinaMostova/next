@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+}
+
+.item {
+  max-width: 420px;
+  padding: 24px;
+  text-align: center;
+  border: 2px solid #bb7833;
+  border-radius: 12px;
+}
